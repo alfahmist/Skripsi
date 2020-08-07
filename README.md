@@ -1,6 +1,6 @@
 # Skripsi
 
-Datasetsource : http://www.image-net.org/
+Dataset source : http://www.image-net.org/
 
 n02128385 : Leopard
 
